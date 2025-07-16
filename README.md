@@ -57,7 +57,7 @@ This repository contains an end-to-end pipeline for clustering 30,000 URLs using
 * Generated **word clouds** per cluster to visualize content themes.
 * Cleaned multilingual text using custom stopword set (EN, FR, DE, etc.)
 
-📌 *Snapshots: Cluster Word Clouds from notebook (Pages 15–23)*
+📌 *Snapshots: Sample Cluster Word Clouds from notebook*
 <img width="481" height="747" alt="Screenshot 2025-07-16 at 4 08 16 PM" src="https://github.com/user-attachments/assets/43f2a3a8-4d06-492d-9c18-26d3bd4e0db4" />
 
 ---
@@ -75,7 +75,7 @@ This repository contains an end-to-end pipeline for clustering 30,000 URLs using
 | 17         | Cooking & Recipes           | English        |
 | 24         | Automobile Comparison       | English/French |
 
-📌 *Snapshot: Cluster labeling table (Page 26)*
+📌 *Snapshot: Cluster labeling table*
 <img width="474" height="819" alt="Screenshot 2025-07-16 at 4 08 56 PM" src="https://github.com/user-attachments/assets/073dbd1c-dc42-4bea-93af-e908a61fe35a" />
 
 ---
