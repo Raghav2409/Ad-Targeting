@@ -75,8 +75,6 @@ This repository contains an end-to-end pipeline for clustering 30,000 URLs using
 | 17         | Cooking & Recipes           | English        |
 | 24         | Automobile Comparison       | English/French |
 
-📌 *Snapshot: Cluster labeling table*
-<img width="474" height="819" alt="Screenshot 2025-07-16 at 4 08 56 PM" src="https://github.com/user-attachments/assets/073dbd1c-dc42-4bea-93af-e908a61fe35a" />
 
 ---
 
@@ -87,8 +85,6 @@ This repository contains an end-to-end pipeline for clustering 30,000 URLs using
 * **Highly Distinct Topics**: Word clouds validated topical separation
 * **Languages Covered**: English, French, German, Hindi
 
-📌 *Snapshot: Final Analysis Table (Page 27)*
-<img width="429" height="210" alt="Screenshot 2025-07-16 at 4 09 34 PM" src="https://github.com/user-attachments/assets/d97d20b9-f7a2-4399-9f33-62730c189ab6" />
 
 ---
 
