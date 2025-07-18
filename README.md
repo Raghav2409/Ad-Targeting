@@ -57,9 +57,6 @@ This repository contains an end-to-end pipeline for clustering 30,000 URLs using
 * Generated **word clouds** per cluster to visualize content themes.
 * Cleaned multilingual text using custom stopword set (EN, FR, DE, etc.)
 
-📌 *Snapshots: Sample Cluster Word Clouds from notebook*
-<img width="481" height="747" alt="Screenshot 2025-07-16 at 4 08 16 PM" src="https://github.com/user-attachments/assets/43f2a3a8-4d06-492d-9c18-26d3bd4e0db4" />
-
 ---
 
 ### 5. GPT-4 Based Cluster Labeling
